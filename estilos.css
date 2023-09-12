@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "Spoutnik" ;
+    src:local("C:\Users\Usuario\Desktop\Archivos\Centro de estudiantes IPETyM 61\Candidatura 2022\para flyer\fuentes\fonst\Spoutnik.ttf");
+}
+header {
+    background:#1e272e;
+    color: #f1f2f6  ;
+    margin-left:0;
+    margin-top: 0;
+    font-family: "Spoutnik";
+    }
+
+.Cabecera{
+    padding: 0px;
+    text-align: center;
+
+}
+
+
